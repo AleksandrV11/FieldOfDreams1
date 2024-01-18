@@ -10,6 +10,7 @@ import com.pengrad.telegrambot.request.SendMessage;
 import java.util.HashMap;
 import java.util.List;
 
+
 public class TestGame {
 
     private static String kluch = ;
