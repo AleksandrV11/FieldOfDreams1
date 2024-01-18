@@ -13,7 +13,7 @@ import java.util.List;
 
 public class TestGame {
 
-    private static String kluch = ;
+    private static String kluch ;
     private static String id = Long.toString(-1002091888728L);
     private static MessageManager messageManager;
 
